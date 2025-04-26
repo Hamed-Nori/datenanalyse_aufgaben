@@ -27,11 +27,11 @@ Hier findest du eine Anleitung, wie du das Projekt auf **Windows** oder **Mac** 
 
 ### 🖥️ Windows Anleitung
 
-1. **Repository klonen** (per SSH):
+1. **Repository klonen** (per HTTPS):
 
 ```bash
-git clone git@github.com:Hamed-Nori/datenanalyse_aufgaben.git
-cd dein-repository
+git clone https://github.com/Hamed-Nori/datenanalyse_aufgaben.git
+cd datenanalyse_aufgaben
 ```
 
 2. **Virtuelles Environment erstellen:**
@@ -69,8 +69,8 @@ code --install-extension mechatroner.rainbow-csv
 1. **Repository klonen** (per SSH):
 
 ```bash
-git clone git@github.com:dein-nutzername/dein-repository.git
-cd dein-repository
+git clone https://github.com/Hamed-Nori/datenanalyse_aufgaben.git
+cd datenanalyse_aufgaben
 ```
 
 2. **Virtuelles Environment erstellen:**

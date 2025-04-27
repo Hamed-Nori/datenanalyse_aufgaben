@@ -82,7 +82,7 @@ python3 -m venv .venv
 3. **Virtuelles Environment aktivieren:**
 
 ```bash
-source .venv/bin/activate
+source .venv/Scripts/activate
 ```
 
 4. **Python-Pakete installieren:**

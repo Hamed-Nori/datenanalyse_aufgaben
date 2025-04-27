@@ -2,5 +2,5 @@ code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
 python -m venv .venv
 source .venv/Scripts/activate
-pip install pandas jupyter ipykernel plotly
+pip install pandas jupyter ipykernel plotly numpy matplotlib
 code --install-extension mechatroner.rainbow-csv
